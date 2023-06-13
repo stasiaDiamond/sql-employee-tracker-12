@@ -36,18 +36,21 @@ Node.js, JavaScript, and SQL, Mysql2, dotenv, inquirer, console.table
 1. Clone the repo
 
 2. Open integrated terminal to install packages:
-enter: npm init -y
-enter: npm i inquirer@8.2.4
-enter: npm i sequelize mysql2 dotenv
+
+* enter: npm init -y
+* enter: npm i inquirer@8.2.4
+* enter: npm i sequelize mysql2 dotenv
 
 3. Create the database:
-log into your mysql -uroot
-SOURCE db/schema.sql;
-SOURCE db/seeds.sql;
-quit
+
+* log into your mysql -uroot
+* SOURCE db/schema.sql;
+* SOURCE db/seeds.sql;
+* quit
 
 4. Start the app:
-enter: npm start
+
+* enter: npm start
 
 ## How To
 
@@ -55,4 +58,4 @@ Use arrow and enter keys, follow prompts to choose a Department, Role, or Employ
 
 ## Visuals
 
-[!Screenshot](/assets/screenshot)
+![Screenshot](/assets/Screenshot%202023-06-13%20at%203.46.28%20PM.png)
